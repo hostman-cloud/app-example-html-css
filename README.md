@@ -2,7 +2,7 @@
 
 Example of a static [HTML & CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) application that can be deployed to **Hostman** without configuration.
 
-:tada: [Demo]()
+:tada: [Demo](https://hostman-cloud-app-example-html-css-3e85.hostman.dev/)
 
 :rocket: [Create your Apps](https://hostman.com/my/apps/create)
 
